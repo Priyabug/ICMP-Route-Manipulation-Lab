@@ -32,8 +32,8 @@ The goal of this task is to execute an ICMP redirect attack, forcing the victim 
 
 <h2>Program walk-through:</h2>
 
-<h2>Task 1: Launching ICMP Redirect Attack</h2>
-<h2>Task 2: Launching the MITM Attack</h2>
+- <b> Task 1: Launching ICMP Redirect Attack</b></br>
+- <b> Task 2: Launching the MITM Attack</b>
 
 
 
