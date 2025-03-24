@@ -34,19 +34,20 @@ Through this lab, students will gain **hands-on experience** in how attackers **
 
 
 
-<h2>Languages and Utilities Used</h2>
+## **Languages and Utilities Used**  
+- 🐍 **Python**  
+- 🖥 **Ubuntu 20.04 VM**  
 
-- <b>Python</b> 
-- <b>Ubuntu 20.04 VM</b>
+---
 
-<h2>Environments Used </h2>
+## **Environments Used**  
+- 💻 **Windows 11 Home**  
 
-- <b>Windows 11 Home</b> 
+---
 
-<h2>Program walk-through:</h2>
-
-- <b> Task 1: Launching ICMP Redirect Attack</b></br>
-- <b> Task 2: Launching the MITM Attack</b>
+## **Program Walk-Through**  
+### 🔹 **Task 1: Launching ICMP Redirect Attack**  
+### 🔹 **Task 2: Launching the MITM Attack**  
 
 
 
