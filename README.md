@@ -1,4 +1,4 @@
-# **ICMP Redirect Attack Lab**  
+# **ICMP Route Manipulation Lab**  
 
 ## **Overview**  
 An **ICMP redirect** is an error message issued by a router to the sender of an IP packet, indicating that the packet is being **routed inefficiently**. The purpose of this message is to inform the sender to use a **different router** for future packets destined for the same address.  
